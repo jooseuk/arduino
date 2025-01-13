@@ -1,0 +1,2 @@
+/root/jooseuk/executable[[:space:]]file.zip filter=lfs diff=lfs merge=lfs -text
+/root/jooseuk/executable_file.zip filter=lfs diff=lfs merge=lfs -text
